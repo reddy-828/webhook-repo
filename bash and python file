@@ -1,0 +1,10 @@
+Bash
+
+webhook/
+├── .github/
+│   └── workflows/
+│       └── python-webhook.yml
+├── webhook.py              # Python webhook server
+├── run.sh                  # Bash script to start the server
+├── requirements.txt        # Python dependencies
+└── README.md
